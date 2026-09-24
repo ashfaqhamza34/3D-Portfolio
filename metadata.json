@@ -1,0 +1,6 @@
+{
+  "name": "Atelier 3D — Developer Portfolio",
+  "description": "An interactive 3D workspace developer portfolio built with Three.js and GSAP featuring cinematic camera choreography and low-poly desk aesthetics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
